@@ -5,7 +5,11 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 # Test using YAML metadata in markdwon files
 
 ---
-example: `title`/ 'title' / "title"
+title: Example
+category: Example
+tag:
+  - Example
+description: `title` / 'title' / "title"
 ---
 
 
