@@ -1,8 +1,8 @@
-# Objetivos de la repositorio
+# Goals
+* Handle Justice League plans
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-# Test using YAML metadata in markdwon files
+# Test using YAML metadata in markdown files
 
 ---
 title: Example
